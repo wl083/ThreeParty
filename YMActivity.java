@@ -20,5 +20,6 @@ public class YMActivity extends AppCompatActivity{
 
     private void initView() {
 
+        Log.i("www", "onCreateaaa: ");
     }
 }
